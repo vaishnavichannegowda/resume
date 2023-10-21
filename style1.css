@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 242, 216)  ;
+}
+#vai{
+    background-image: url(image/_SRI2189.jpg);
+    height:400px;
+    width:50px;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: end;
+}
+p{
+text-align:start;
+font-style: oblique;
+background-color:grey;
+}
+.dot{
+    height:25px;
+    width:50px;
+    border-radius:50%;
+    text-align-last: right;
+}
+table{
+    border-collapse:collapse;
+width:50%}
+th,td{
+    border:1px solid black;
+padding:8px;
+text-align:center}
+th{
+    background-color: aliceblue;
+}
+tr{
+    background-color: antiquewhite;
+}
